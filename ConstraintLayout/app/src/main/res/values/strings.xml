@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiPrimerLayout</string>
+    <string name="singapore_description">Singapore es una de las ciudades modernas mas hermosas de Asia. Esta pais presenta muchas islas</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="discard">Discard</string>
+    <string name="upload">Upload</string>
+    <string name="camera_settings">Descripcion corta</string>
+    <string name="settings">Settings</string>
+    <string name="camera">Camera</string>
+    <string name="camera_value">Nombre ciudad</string>
+    <string name="singapore">Singapore</string>
+    <string name="name">Name</string>
+</resources>
